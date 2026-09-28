@@ -1,0 +1,18 @@
+# competition data and generated files
+dataset/
+output/
+code/business_entity_resolution/artifacts/
+*.zip
+*.parquet
+*.npy
+*.tsv
+*.log
+*.err
+
+# python / OS
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
